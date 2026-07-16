@@ -5,9 +5,8 @@ Aspiring Data Analyst | Python | SQL | Power BI | Data Visualization
 </h3>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Pavitra210&show_icons=true&hide_border=true&theme=tokyonight" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00A8E8&center=true&vCenter=true&width=700&lines=Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI;Data+Visualization;Turning+Data+into+Insights" />
 </p>
-
 
 ## 👨‍💻 About Me
 
