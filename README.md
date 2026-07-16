@@ -105,22 +105,7 @@ Aspiring Data Analyst | Python | SQL | Power BI | Data Visualization
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Pavitra210&show_icons=true&theme=tokyonight" />
-</p>
-
-## 🔥 GitHub Streak
-
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Pavitra210&theme=tokyonight"/>
-
-</p>
-
-## 💻 Most Used Languages
-
-<p align="center">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Pavitra210&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats-gamma-sand.vercel.app/api?username=Pavitra210&show_icons=true&theme=tokyonight" />
 </p>
 
 ## 🏆 GitHub Trophies
@@ -128,7 +113,19 @@ Aspiring Data Analyst | Python | SQL | Power BI | Data Visualization
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Pavitra210&theme=tokyonight&no-frame=true" />
 </p>
+## 📈 GitHub Activity
 
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pavitra210&theme=tokyonight" />
+</p>
+
+## 📊 GitHub Statistics
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pavitra210&theme=tokyonight" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pavitra210&theme=tokyonight" />
+</p>
 ## 📫 Connect With Me
 
 
