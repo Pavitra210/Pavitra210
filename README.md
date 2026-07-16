@@ -102,16 +102,11 @@ Aspiring Data Analyst | Python | SQL | Power BI | Data Visualization
 - Calculates health parameters and provides recommendations
 - Implemented frontend and backend integration
 
-
 ## 📊 GitHub Stats
 
-
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Pavitra210&show_icons=true&theme=tokyonight"/>
-
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Pavitra210&show_icons=true&theme=tokyonight" />
 </p>
-
 
 ## 🔥 GitHub Streak
 
@@ -122,26 +117,17 @@ Aspiring Data Analyst | Python | SQL | Power BI | Data Visualization
 
 </p>
 
-
 ## 💻 Most Used Languages
 
-
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavitra210&layout=compact&hide_border=true&theme=tokyonight&langs_count=8"/>
-
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Pavitra210&layout=compact&theme=tokyonight" />
 </p>
-
 
 ## 🏆 GitHub Trophies
 
-
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Pavitra210&theme=tokyonight&no-frame=true&margin-w=10"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=Pavitra210&theme=tokyonight&no-frame=true" />
 </p>
-
 
 ## 📫 Connect With Me
 
