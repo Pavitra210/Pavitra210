@@ -102,17 +102,6 @@ Aspiring Data Analyst | Python | SQL | Power BI | Data Visualization
 - Calculates health parameters and provides recommendations
 - Implemented frontend and backend integration
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats-gamma-sand.vercel.app/api?username=Pavitra210&show_icons=true&theme=tokyonight" />
-</p>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Pavitra210&theme=tokyonight&no-frame=true" />
-</p>
 ## 📈 GitHub Activity
 
 <p align="center">
