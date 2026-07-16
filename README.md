@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi 👋, I'm Pavitra Reddy
 
-<!--
-**Pavitra210/Pavitra210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Data Analyst | Computer Science Engineering Student
 
-Here are some ideas to get you started:
+I am a Computer Science Engineering student passionate about transforming data into meaningful insights. I enjoy solving real-world problems using Python, SQL, Excel, and Power BI. Currently, I am building projects in Data Analytics and continuously improving my analytical and programming skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Currently Learning
+
+- Python for Data Analytics
+- SQL
+- Power BI
+- Excel
+- Pandas
+- NumPy
+- Matplotlib
+- Data Visualization
+
+---
+
+## 🎯 Career Goal
+
+To become a Data Analyst and build data-driven solutions that help organizations make better business decisions.
