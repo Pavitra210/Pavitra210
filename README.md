@@ -5,7 +5,7 @@ Aspiring Data Analyst | Python | SQL | Power BI | Data Visualization
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=24&color=00A8E8&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile;Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI;Turning+Data+into+Insights" />
+<img src="https://github-readme-stats.vercel.app/api?username=Pavitra210&show_icons=true&hide_border=true&theme=tokyonight" />
 </p>
 
 
@@ -128,7 +128,7 @@ Aspiring Data Analyst | Python | SQL | Power BI | Data Visualization
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavitra210&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavitra210&layout=compact&hide_border=true&theme=tokyonight&langs_count=8"/>
 
 </p>
 
@@ -138,7 +138,7 @@ Aspiring Data Analyst | Python | SQL | Power BI | Data Visualization
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Pavitra210&theme=tokyonight&row=1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Pavitra210&theme=tokyonight&no-frame=true&margin-w=10"/>
 
 </p>
 
@@ -148,11 +148,11 @@ Aspiring Data Analyst | Python | SQL | Power BI | Data Visualization
 
 <p>
 
-<a href="YOUR_LINKEDIN_LINK">
+<a href="https://www.linkedin.com/in/pavitra-reddy-data-analytics/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:pavitrareddyernapalli@gmail.com">
 <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
 </a>
 
